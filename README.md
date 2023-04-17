@@ -1,0 +1,1 @@
+An experimental bebop driver for ROS2 to go on using bebop drone in ROS2, hopefully to some extent in the same way [bebop_autonomy](https://github.com/AutonomyLab/bebop_autonomy) was used for connecting ROS1 to bebop drones.
